@@ -1,0 +1,21 @@
+ID_Ressource,Type_Ressource,Capacite,Batiment
+1,Labo Informatique,45,Bloc B
+2,Labo Informatique,60,Bloc D
+3,Labo Informatique,120,Bloc D
+4,Amphi,200,Bloc B
+5,Salle de Cours,30,Bloc B
+6,Labo Informatique,200,Bloc B
+7,Salle TP,30,Bloc A
+8,Salle de Cours,120,Bloc D
+9,Labo Informatique,45,Bloc B
+10,Labo Informatique,60,Bloc B
+11,Salle de Cours,45,Bloc A
+12,Amphi,120,Bloc A
+13,Salle TP,45,Bloc A
+14,Amphi,200,Bloc A
+15,Labo Informatique,200,Bloc A
+16,Salle TP,30,Bloc D
+17,Labo Informatique,45,Bloc B
+18,Amphi,45,Bloc C
+19,Salle TP,200,Bloc C
+20,Salle de Cours,45,Bloc C

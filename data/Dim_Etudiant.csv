@@ -1,0 +1,502 @@
+ID_Etudiant,CNE,Nom_Complet,Date_Naissance,Ville_Origine,Mention_Bac,Annee_Admission,Niveau,Filiere
+999,G123456789,Aya Filali,2001-03-15,Kénitra,Très Bien,2020,CI3,Génie Informatique
+1,G896233790,Maryse Imbert,2003-07-11,Tanger,Assez Bien,2023,CP2,Cycle Préparatoire
+2,G890779946,Laurent Dupuy,2001-05-31,Rabat,Très Bien,2022,CI1,Génie Industriel
+3,G734036506,Françoise-Michèle Leroux,2001-05-22,Marrakech,Assez Bien,2021,CI2,RST
+4,G334760738,Joseph Bonneau,2000-06-20,Fès,Très Bien,2024,CP1,Cycle Préparatoire
+5,R313500298,Éric Becker,2001-09-13,Marrakech,Assez Bien,2024,CP1,Cycle Préparatoire
+6,R398704996,Gilles Denis,2003-11-17,Kénitra,Assez Bien,2021,CI2,Mécatronique
+7,K398362082,Denis Nguyen Le Thomas,2004-07-24,Casablanca,Assez Bien,2022,CI1,Mécatronique
+8,G199585092,Alix Bègue,2005-08-10,Marrakech,Assez Bien,2022,CI1,Génie Électrique
+9,K748245888,Constance De Sousa,2007-01-28,Tanger,Assez Bien,2021,CI2,Génie Électrique
+10,R234031070,Daniel-Patrick Huet,2004-03-11,Marrakech,Assez Bien,2021,CI2,Mécatronique
+11,K990566476,Olivier-Jacques Leroux,2000-06-18,Salé,Très Bien,2021,CI2,RST
+12,R174684276,Chantal Carpentier,1999-10-09,Kénitra,Très Bien,2020,CI3,Génie Informatique
+13,K185675980,Gabrielle Ribeiro,2006-05-23,Fès,Assez Bien,2022,CI1,Génie Industriel
+14,K586845604,Jérôme Lacombe,2004-01-29,Salé,Assez Bien,2020,CI3,Génie Électrique
+15,K324956459,Édith Descamps,2005-09-11,Tanger,Très Bien,2021,CI2,Génie Électrique
+16,R781802744,Joseph Lecoq de Bousquet,2002-09-08,Casablanca,Très Bien,2023,CP2,Cycle Préparatoire
+17,G596348124,Timothée Leleu,2001-04-17,Marrakech,Bien,2022,CI1,Génie Industriel
+18,G835098955,Bernadette Lefebvre,2006-12-31,Salé,Assez Bien,2021,CI2,RST
+19,G964411347,Capucine Lemaire,2007-03-28,Salé,Bien,2022,CI1,Génie Industriel
+20,G326541099,Colette Cordier,2007-03-09,Salé,Assez Bien,2021,CI2,Génie Industriel
+21,K790256940,Yves Buisson,1999-12-10,Oujda,Assez Bien,2020,CI3,Mécatronique
+22,G364814270,Nathalie Collet,2002-06-18,Tanger,Très Bien,2021,CI2,Génie Industriel
+23,K726563708,Frédérique Gonzalez,2006-05-06,Marrakech,Bien,2020,CI3,RST
+24,G647099690,Olivier Ferrand-Guillot,1999-08-27,Oujda,Assez Bien,2022,CI1,Génie Industriel
+25,G264112119,Thibault Maillet,2005-07-24,Casablanca,Très Bien,2024,CP1,Cycle Préparatoire
+26,R168212356,David-René Payet,2005-11-09,Marrakech,Bien,2022,CI1,Mécatronique
+27,R369953851,Suzanne Hamon,2002-04-07,Kénitra,Très Bien,2021,CI2,Mécatronique
+28,R676567501,Marc Collet-Lamy,2003-03-08,Tanger,Très Bien,2023,CP2,Cycle Préparatoire
+29,G415143362,Astrid Rousseau,2000-08-13,Marrakech,Assez Bien,2022,CI1,Génie Électrique
+30,G875340444,Jeannine-Marine Guillot,2004-03-02,Tanger,Très Bien,2021,CI2,Mécatronique
+31,R214257751,Frédéric-Gabriel Henry,2004-02-08,Tanger,Très Bien,2021,CI2,Génie Informatique
+32,R313579170,Dorothée Henry,2003-06-12,Casablanca,Bien,2022,CI1,RST
+33,R936043811,Victor Perrot de Rodriguez,2004-09-04,Kénitra,Très Bien,2021,CI2,Génie Informatique
+34,K120912992,Thomas Lebrun,2002-08-01,Rabat,Bien,2022,CI1,Génie Électrique
+35,G162196678,Diane Leleu,1999-10-27,Fès,Très Bien,2020,CI3,Génie Industriel
+36,G885879795,Georges De Sousa,2004-04-15,Oujda,Assez Bien,2023,CP2,Cycle Préparatoire
+37,G237859287,Luce Courtois,1999-08-04,Oujda,Très Bien,2021,CI2,RST
+38,K666585408,Clémence Laroche,1999-09-08,Marrakech,Assez Bien,2021,CI2,Génie Informatique
+39,R840739735,Frédérique Bernard-Da Silva,2004-01-03,Fès,Très Bien,2021,CI2,RST
+40,K821218382,Joséphine Mary,2003-08-26,Salé,Bien,2020,CI3,Génie Industriel
+41,K229927269,Rémy Faure,2007-02-06,Fès,Assez Bien,2022,CI1,RST
+42,K122585366,Adrien Maillot,2005-11-25,Fès,Très Bien,2023,CP2,Cycle Préparatoire
+43,G176228245,Antoinette Bouvet,2000-09-27,Kénitra,Assez Bien,2022,CI1,Génie Industriel
+44,G454794895,Simone Le Pasquier,2006-11-24,Rabat,Très Bien,2023,CP2,Cycle Préparatoire
+45,K818309417,Alexandria Bègue,2003-07-24,Oujda,Assez Bien,2022,CI1,Génie Industriel
+46,G876693898,Alexandria Leduc,2007-02-12,Oujda,Assez Bien,2021,CI2,RST
+47,K304451095,Andrée-Corinne Gay,2004-03-29,Rabat,Assez Bien,2020,CI3,Mécatronique
+48,K554814084,Suzanne Delannoy,1999-11-22,Marrakech,Bien,2022,CI1,Mécatronique
+49,R801642483,Valérie-Camille Delannoy,2005-12-30,Rabat,Assez Bien,2024,CP1,Cycle Préparatoire
+50,R464323393,Adrien-David Bruneau,2002-08-16,Rabat,Assez Bien,2020,CI3,Génie Électrique
+51,G675832441,Charles Leclercq,2001-10-01,Oujda,Assez Bien,2020,CI3,Génie Informatique
+52,G399085574,Henri-Laurent Antoine,2000-03-25,Oujda,Assez Bien,2022,CI1,Mécatronique
+53,K967607278,Renée Albert,1999-10-06,Rabat,Assez Bien,2023,CP2,Cycle Préparatoire
+54,G200140141,Olivie-Antoinette Georges,2004-10-20,Fès,Assez Bien,2021,CI2,RST
+55,K616854671,Geneviève Peltier de Becker,2007-03-01,Fès,Bien,2022,CI1,Mécatronique
+56,G506919288,Julie-Louise Pichon,2001-03-11,Kénitra,Bien,2024,CP1,Cycle Préparatoire
+57,K406284028,Denise Ramos de Grégoire,1999-09-27,Marrakech,Très Bien,2021,CI2,Génie Industriel
+58,R871385010,Alfred Delmas Le Morin,2005-03-18,Oujda,Assez Bien,2021,CI2,RST
+59,K333754555,Olivier Vallet-Noël,2000-01-23,Kénitra,Très Bien,2020,CI3,Génie Informatique
+60,G903132646,Sébastien du Turpin,2000-12-30,Salé,Assez Bien,2021,CI2,RST
+61,R611947770,Nath Blanchard,2002-06-13,Casablanca,Assez Bien,2024,CP1,Cycle Préparatoire
+62,G299528037,Gabrielle Coulon,2007-02-06,Rabat,Très Bien,2022,CI1,RST
+63,R352548261,Marcelle Hardy,2002-04-08,Marrakech,Assez Bien,2023,CP2,Cycle Préparatoire
+64,G721609600,Gabriel de la Martin,1999-11-02,Kénitra,Très Bien,2020,CI3,RST
+65,K805849060,Victor Rocher,2004-12-23,Salé,Bien,2023,CP2,Cycle Préparatoire
+66,R869005091,Claire Rolland,2000-12-23,Salé,Assez Bien,2020,CI3,Génie Informatique
+67,K240529481,François Lopez-Vallée,2005-04-06,Tanger,Bien,2021,CI2,Génie Industriel
+68,G110002396,Aurore Le Fontaine,2001-08-08,Oujda,Très Bien,2022,CI1,Génie Électrique
+69,G178663096,Philippe Lesage,1999-07-27,Fès,Très Bien,2020,CI3,RST
+70,G474745382,Tristan Le Delahaye,2000-08-17,Rabat,Assez Bien,2021,CI2,Génie Industriel
+71,K269379374,Jacqueline Moulin,1999-06-23,Oujda,Très Bien,2021,CI2,Génie Électrique
+72,R966616964,Rémy Blanchet,2004-04-05,Kénitra,Très Bien,2020,CI3,Génie Industriel
+73,K812308209,Denis Lemonnier,2003-10-14,Rabat,Assez Bien,2021,CI2,RST
+74,G214929002,Camille Cousin,2005-11-23,Casablanca,Bien,2021,CI2,Génie Industriel
+75,R326161867,Anouk Girard,2000-07-27,Salé,Assez Bien,2020,CI3,Génie Industriel
+76,R624557080,William Pereira,2000-03-15,Tanger,Assez Bien,2021,CI2,Génie Industriel
+77,R554811020,Roland Menard,2005-05-28,Tanger,Assez Bien,2023,CP2,Cycle Préparatoire
+78,K927982963,Patrick Pascal,2000-01-16,Casablanca,Très Bien,2024,CP1,Cycle Préparatoire
+79,G895890631,Marcel Le Roux,2000-03-09,Oujda,Très Bien,2021,CI2,Génie Industriel
+80,R110382761,Alphonse Lefèvre,2003-10-23,Rabat,Assez Bien,2022,CI1,Mécatronique
+81,R138684919,Claude Dufour,2002-11-09,Salé,Très Bien,2022,CI1,Génie Informatique
+82,G561479973,Thibault Parent,2006-03-29,Casablanca,Assez Bien,2021,CI2,RST
+83,K954829815,André-Victor Petitjean,2006-12-12,Kénitra,Bien,2020,CI3,Génie Industriel
+84,R367930513,Patricia Bouvier,2006-05-04,Rabat,Bien,2020,CI3,Génie Informatique
+85,K766430218,Julien Pichon,2004-06-04,Casablanca,Assez Bien,2021,CI2,RST
+86,G542697755,Camille Delorme,2005-07-11,Kénitra,Assez Bien,2021,CI2,Génie Informatique
+87,K961393416,Olivier Dijoux de la Dumont,2003-01-18,Fès,Bien,2022,CI1,Génie Électrique
+88,R216066793,Juliette Nicolas,2001-04-12,Marrakech,Assez Bien,2021,CI2,Génie Informatique
+89,G314289692,Gabrielle Renaud-Lebreton,1999-12-07,Oujda,Bien,2020,CI3,Mécatronique
+90,G339362341,William du Pierre,2005-04-18,Kénitra,Très Bien,2020,CI3,Génie Industriel
+91,K452468587,Franck Chevallier,2002-01-23,Tanger,Assez Bien,2020,CI3,Génie Informatique
+92,K788785773,Christine Dumas,2000-02-12,Marrakech,Très Bien,2021,CI2,Génie Industriel
+93,K129635852,Valentine de Benoit,2005-06-17,Rabat,Bien,2021,CI2,RST
+94,R385042337,Julie Gillet,2005-02-21,Kénitra,Assez Bien,2021,CI2,Génie Informatique
+95,K882269302,Marianne Boulay du Pichon,2004-09-17,Salé,Bien,2022,CI1,Mécatronique
+96,G513600440,Constance Ollivier,2004-04-07,Fès,Bien,2022,CI1,RST
+97,R568213197,Sébastien Guillaume,2006-02-03,Kénitra,Très Bien,2024,CP1,Cycle Préparatoire
+98,R872482077,Éric Goncalves,2002-04-13,Fès,Bien,2021,CI2,RST
+99,G813219781,Alain Maillet,2000-12-20,Salé,Très Bien,2022,CI1,Mécatronique
+100,R233815413,Stéphane Perrier-Léger,2002-03-01,Tanger,Très Bien,2022,CI1,Génie Électrique
+101,R538508549,David Gosselin,2002-05-09,Salé,Bien,2020,CI3,Génie Industriel
+102,R236674237,Julie de Parent,2007-04-04,Fès,Bien,2020,CI3,Génie Industriel
+103,R903303363,Dominique-Capucine Morin,2004-08-03,Casablanca,Très Bien,2020,CI3,Génie Électrique
+104,K536019893,Thomas de Menard,2005-01-20,Kénitra,Bien,2020,CI3,RST
+105,G561588882,Joseph Dijoux de Faivre,2002-02-24,Salé,Bien,2020,CI3,Génie Industriel
+106,K825449223,Guillaume Renault,2006-07-10,Fès,Très Bien,2021,CI2,Mécatronique
+107,R282204745,Gilbert Guillaume,2001-03-02,Rabat,Bien,2020,CI3,Mécatronique
+108,R779615069,Thomas Petitjean,2003-08-20,Salé,Assez Bien,2022,CI1,RST
+109,R433310361,Roland Pinto Le Faure,2001-05-19,Fès,Assez Bien,2022,CI1,Génie Industriel
+110,G149621604,Alix du Bousquet,2004-11-12,Fès,Bien,2022,CI1,Génie Informatique
+111,K545002643,Dorothée Bonnet,2002-11-18,Fès,Très Bien,2023,CP2,Cycle Préparatoire
+112,K529123992,Agnès-Renée Germain,2006-09-26,Fès,Assez Bien,2020,CI3,Génie Électrique
+113,G935822550,Renée Renard Le Adam,2001-08-04,Marrakech,Assez Bien,2024,CP1,Cycle Préparatoire
+114,R656152900,Denis-Gilles Lacroix,2007-05-15,Oujda,Assez Bien,2021,CI2,Génie Informatique
+115,G230307805,Pierre Hernandez,2005-09-11,Oujda,Assez Bien,2021,CI2,RST
+116,R670298515,Honoré Lefort de la Goncalves,2000-08-29,Salé,Bien,2021,CI2,Mécatronique
+117,K991816852,Guy-Roger Mace,2003-12-08,Oujda,Assez Bien,2022,CI1,RST
+118,K378304807,Timothée Pinto-Guibert,2004-04-08,Fès,Très Bien,2020,CI3,Mécatronique
+119,R620332086,Nicolas Delahaye,2002-07-16,Fès,Bien,2021,CI2,Génie Industriel
+120,G866162966,Sabine Jourdan,2000-10-30,Tanger,Assez Bien,2021,CI2,Mécatronique
+121,K443285529,Étienne Boyer de la Robert,2005-01-21,Rabat,Assez Bien,2021,CI2,Génie Industriel
+122,G511281012,Nathalie Lebreton,1999-09-13,Casablanca,Très Bien,2022,CI1,Génie Informatique
+123,G545461013,Pénélope Carpentier,1999-06-22,Marrakech,Bien,2020,CI3,Génie Informatique
+124,K546434187,Eugène Bègue-Martineau,2003-07-08,Kénitra,Assez Bien,2021,CI2,RST
+125,K926561919,Claudine Dumont,2006-03-10,Kénitra,Très Bien,2022,CI1,Mécatronique
+126,K106330865,Timothée Buisson,2002-09-14,Salé,Bien,2020,CI3,Génie Électrique
+127,K677909930,Martin-Gilles Chrétien,2005-12-11,Fès,Bien,2020,CI3,Génie Électrique
+128,K567975319,Pénélope Launay,1999-09-04,Oujda,Assez Bien,2022,CI1,Génie Industriel
+129,K818197581,Élise Roy,2000-08-05,Marrakech,Très Bien,2020,CI3,Génie Électrique
+130,K237039296,Nicolas Hamel,2006-05-12,Kénitra,Bien,2021,CI2,Génie Informatique
+131,R811890569,Aimée Bruneau de Delaunay,2005-10-20,Kénitra,Assez Bien,2020,CI3,RST
+132,G595744935,Luc Vaillant,2003-10-06,Casablanca,Assez Bien,2022,CI1,Mécatronique
+133,K451492250,Roland Gimenez du Lelièvre,2006-09-08,Fès,Bien,2021,CI2,Génie Industriel
+134,K917364173,Henri Le Huet,2001-12-07,Marrakech,Bien,2022,CI1,Génie Électrique
+135,K996478772,Xavier Léger,2006-09-02,Rabat,Bien,2022,CI1,Mécatronique
+136,R679196799,Aimée Hoarau,2006-12-29,Kénitra,Bien,2024,CP1,Cycle Préparatoire
+137,R173678414,Maggie Seguin de Cohen,2006-03-01,Kénitra,Assez Bien,2022,CI1,Génie Industriel
+138,G121882877,Susan Guillou,2000-12-08,Casablanca,Assez Bien,2022,CI1,Génie Industriel
+139,K818825964,Marine Delahaye,1999-12-29,Rabat,Très Bien,2022,CI1,Génie Informatique
+140,K851044796,Capucine Bertrand de la Lefèvre,2003-01-27,Tanger,Bien,2020,CI3,Génie Informatique
+141,R752027025,André Pinto-Jacquet,2003-02-21,Rabat,Assez Bien,2021,CI2,Génie Informatique
+142,G721358005,Guillaume Gillet,2005-10-03,Kénitra,Bien,2020,CI3,Génie Industriel
+143,R502982778,Guillaume Leclerc,2007-04-20,Marrakech,Très Bien,2020,CI3,RST
+144,G735760237,Guy David-Bertrand,2002-12-24,Fès,Assez Bien,2020,CI3,Génie Informatique
+145,R744687060,Alain Lambert-Fernandes,2007-04-26,Rabat,Très Bien,2020,CI3,Génie Industriel
+146,K672030854,Aurore Durand-Vallée,2006-11-26,Marrakech,Très Bien,2024,CP1,Cycle Préparatoire
+147,G643271261,Thibault-Denis Schneider,2005-01-07,Salé,Assez Bien,2021,CI2,Génie Électrique
+148,K213321496,Guillaume du Barbe,2006-08-21,Marrakech,Bien,2022,CI1,Mécatronique
+149,R264272995,Jean Evrard,2002-03-20,Marrakech,Assez Bien,2021,CI2,Mécatronique
+150,R389998761,Sébastien Moreau,2001-03-15,Oujda,Bien,2022,CI1,RST
+151,R736164778,Yves Le Rossi,2005-03-16,Tanger,Bien,2022,CI1,Mécatronique
+152,G399496923,Jérôme Bouvier-Le Goff,2000-12-05,Oujda,Assez Bien,2022,CI1,Génie Industriel
+153,R755338677,Bernard Deschamps,1999-07-12,Marrakech,Bien,2021,CI2,Mécatronique
+154,K448981305,Martine Delaunay,1999-06-23,Casablanca,Bien,2024,CP1,Cycle Préparatoire
+155,K956665975,Noël Diaz-Lacombe,2001-02-12,Tanger,Bien,2020,CI3,Génie Informatique
+156,R852890318,Clémence Delaunay,2002-11-26,Tanger,Très Bien,2021,CI2,Génie Industriel
+157,R305145276,David Neveu,2002-01-09,Rabat,Assez Bien,2024,CP1,Cycle Préparatoire
+158,K696115913,Diane Guyon,2002-09-05,Fès,Très Bien,2022,CI1,Mécatronique
+159,R864334960,Guy Texier,2005-03-03,Oujda,Bien,2020,CI3,Mécatronique
+160,G415933049,Simone Le Ferreira,2005-09-20,Fès,Bien,2024,CP1,Cycle Préparatoire
+161,K812921644,Marguerite Allain,2003-03-18,Salé,Bien,2022,CI1,Génie Industriel
+162,R469106688,Thierry Roy,2000-11-02,Marrakech,Très Bien,2021,CI2,RST
+163,K477753674,Célina Leclercq,2006-06-10,Oujda,Bien,2021,CI2,RST
+164,K347538338,Marianne Gillet-Lejeune,2006-05-15,Rabat,Très Bien,2020,CI3,Génie Industriel
+165,K228370927,Stéphane de la Pineau,2006-11-19,Casablanca,Assez Bien,2020,CI3,Génie Informatique
+166,R619904272,Élisabeth Carlier,2002-04-23,Tanger,Très Bien,2020,CI3,Génie Informatique
+167,R740799178,Yves Samson,2005-06-11,Tanger,Assez Bien,2020,CI3,RST
+168,K344258191,Hélène Raymond,2002-03-02,Salé,Assez Bien,2020,CI3,Génie Informatique
+169,G860229059,Monique Letellier,2002-07-29,Casablanca,Bien,2020,CI3,Génie Industriel
+170,G694164665,Bernard Fernandes,2003-06-22,Tanger,Très Bien,2024,CP1,Cycle Préparatoire
+171,R908304440,Nicolas Da Costa-Bertrand,2006-11-07,Oujda,Assez Bien,2022,CI1,Génie Informatique
+172,R405307028,Henriette de la Buisson,2001-07-04,Oujda,Bien,2024,CP1,Cycle Préparatoire
+173,K297958983,Marianne de Hamel,2001-08-24,Kénitra,Bien,2021,CI2,Mécatronique
+174,G982739959,Bernard Morin de Barbe,2006-07-09,Rabat,Bien,2020,CI3,Mécatronique
+175,G719571745,Sophie Lemoine-Chauvin,2004-11-17,Kénitra,Assez Bien,2020,CI3,Mécatronique
+176,R426240903,Pénélope Henry,2005-03-07,Rabat,Assez Bien,2022,CI1,Génie Informatique
+177,R920814900,Alice Grondin,2005-02-24,Marrakech,Très Bien,2023,CP2,Cycle Préparatoire
+178,R508427798,André Sanchez,2002-08-28,Oujda,Bien,2022,CI1,Génie Industriel
+179,R560452529,Odette Rodrigues,2007-03-04,Tanger,Très Bien,2020,CI3,Génie Industriel
+180,R894664845,Christiane Thomas,2001-06-20,Rabat,Assez Bien,2024,CP1,Cycle Préparatoire
+181,K809129316,Isabelle Perrot,2006-06-06,Rabat,Assez Bien,2020,CI3,Génie Informatique
+182,G692697161,Alice Pons,1999-09-18,Rabat,Assez Bien,2022,CI1,Génie Industriel
+183,K583724666,Sabine Boyer,2001-06-17,Oujda,Bien,2024,CP1,Cycle Préparatoire
+184,G409350265,Vincent Dos Santos,2003-04-01,Tanger,Très Bien,2024,CP1,Cycle Préparatoire
+185,G838073939,Christine Tessier,2007-01-07,Fès,Bien,2021,CI2,Mécatronique
+186,R963187150,Élodie Caron,2003-06-03,Fès,Bien,2020,CI3,RST
+187,R341387305,Agnès Mathieu,2000-10-08,Casablanca,Bien,2023,CP2,Cycle Préparatoire
+188,G164035859,Raymond-Benjamin Roger,2004-08-07,Casablanca,Bien,2022,CI1,Génie Informatique
+189,K571537429,Laure de Bonnet,2005-02-02,Rabat,Bien,2020,CI3,RST
+190,R532190231,Maurice Moreno de la Diaz,2002-05-05,Tanger,Très Bien,2020,CI3,Génie Industriel
+191,K570040006,Pierre Garnier,2007-04-05,Rabat,Très Bien,2021,CI2,RST
+192,K888699799,Jacqueline-Joséphine Huet,2001-07-03,Salé,Très Bien,2024,CP1,Cycle Préparatoire
+193,G198061499,Roland Bonnet,2003-04-29,Fès,Très Bien,2021,CI2,Génie Industriel
+194,R122275263,Martine Bonneau,2000-06-11,Tanger,Très Bien,2020,CI3,RST
+195,G605196410,Amélie de Garcia,2004-04-14,Oujda,Bien,2024,CP1,Cycle Préparatoire
+196,R568027936,René Julien,2004-10-20,Oujda,Assez Bien,2021,CI2,Génie Informatique
+197,K538460431,Alexandria Descamps,2001-01-15,Salé,Bien,2020,CI3,Mécatronique
+198,G454123990,Frédéric de Blin,2002-06-01,Marrakech,Très Bien,2023,CP2,Cycle Préparatoire
+199,K811443654,Éric Dupuy,2002-08-20,Marrakech,Très Bien,2020,CI3,Mécatronique
+200,K194553481,Nicole Le Salmon,2001-07-01,Salé,Bien,2024,CP1,Cycle Préparatoire
+201,G929517022,Timothée Roux,2000-10-05,Marrakech,Très Bien,2022,CI1,Génie Électrique
+202,R682605435,Agnès Maury,2004-02-13,Oujda,Bien,2024,CP1,Cycle Préparatoire
+203,G656670062,Adélaïde Aubert,2004-05-01,Salé,Très Bien,2024,CP1,Cycle Préparatoire
+204,R574637858,Charles Ferrand,1999-09-18,Kénitra,Assez Bien,2020,CI3,Mécatronique
+205,R240674381,Anne-Alex Royer,2000-08-09,Tanger,Bien,2021,CI2,Génie Industriel
+206,G130998324,Élodie Schmitt-Guilbert,2001-03-26,Fès,Très Bien,2020,CI3,Mécatronique
+207,K691458887,Adélaïde Masson,2002-10-03,Kénitra,Très Bien,2021,CI2,Génie Informatique
+208,G341270488,Théophile Valette,2003-12-19,Rabat,Bien,2022,CI1,Mécatronique
+209,R993506934,Antoine Charpentier,2000-01-17,Casablanca,Bien,2023,CP2,Cycle Préparatoire
+210,R857429971,Patricia Delaunay Le Caron,2004-12-09,Tanger,Bien,2020,CI3,Génie Industriel
+211,K361704064,Emmanuel Boyer,2002-03-31,Oujda,Très Bien,2020,CI3,Mécatronique
+212,K304666325,Roland Laurent-Guibert,2003-09-18,Casablanca,Assez Bien,2022,CI1,Génie Informatique
+213,K464938258,Adrien de Coulon,2005-06-30,Tanger,Assez Bien,2021,CI2,Génie Industriel
+214,R420571903,Vincent Duval-Mary,2001-08-02,Oujda,Assez Bien,2020,CI3,Génie Industriel
+215,R620057604,Eugène de la Morel,2002-01-22,Salé,Bien,2021,CI2,Mécatronique
+216,R505026213,Hélène Jourdan,2007-02-25,Oujda,Bien,2021,CI2,RST
+217,R356415500,Pierre Petitjean,2005-04-03,Marrakech,Assez Bien,2020,CI3,Génie Informatique
+218,G441639230,Valérie Laine,2004-07-09,Oujda,Très Bien,2022,CI1,Mécatronique
+219,K812630453,Monique Pelletier-Blondel,2001-06-12,Casablanca,Bien,2020,CI3,Génie Électrique
+220,G639331014,Robert Maréchal-Tanguy,2001-01-25,Salé,Assez Bien,2024,CP1,Cycle Préparatoire
+221,G664735673,Xavier Lecoq-Voisin,2001-11-28,Oujda,Assez Bien,2021,CI2,Mécatronique
+222,K803066091,Christine Roy,2004-03-18,Casablanca,Assez Bien,2022,CI1,Génie Informatique
+223,K463527356,Jérôme Hamon,2004-06-06,Marrakech,Très Bien,2020,CI3,Mécatronique
+224,K824085842,Yves Lelièvre,1999-08-02,Marrakech,Bien,2023,CP2,Cycle Préparatoire
+225,R138546365,Paul Parent,2003-10-21,Rabat,Assez Bien,2020,CI3,Mécatronique
+226,G901834280,Pénélope Brun,1999-09-20,Rabat,Bien,2020,CI3,Génie Industriel
+227,R855797020,René Le Bourdon,2005-01-16,Rabat,Bien,2023,CP2,Cycle Préparatoire
+228,R421549249,Antoine Dupont,2000-12-17,Kénitra,Assez Bien,2021,CI2,Génie Informatique
+229,G415001254,Alphonse Germain,2004-11-18,Salé,Bien,2022,CI1,Génie Électrique
+230,G362204999,Constance Le Goff,2004-05-10,Marrakech,Très Bien,2022,CI1,Mécatronique
+231,G287979290,Simone Chrétien,2001-03-28,Rabat,Très Bien,2021,CI2,Génie Informatique
+232,R833510170,Adrien Schmitt,2002-05-26,Fès,Bien,2020,CI3,Génie Électrique
+233,G349310440,Anne Clerc,2003-12-21,Oujda,Très Bien,2020,CI3,RST
+234,K374154962,Emmanuel Devaux,2001-09-30,Kénitra,Bien,2021,CI2,Génie Industriel
+235,R686905284,Christine Leroux,2003-10-12,Casablanca,Assez Bien,2020,CI3,Génie Industriel
+236,K730900313,Éric Gilles,2006-08-06,Tanger,Très Bien,2021,CI2,Mécatronique
+237,R368540924,Michèle Perrot du Poulain,2006-10-14,Oujda,Bien,2022,CI1,Mécatronique
+238,K618840705,Alix Denis,2002-05-01,Rabat,Assez Bien,2020,CI3,Génie Informatique
+239,R485429460,Édith Besnard,2000-10-06,Tanger,Très Bien,2020,CI3,Génie Électrique
+240,G991246046,Robert du Bègue,2005-04-29,Marrakech,Bien,2020,CI3,Génie Industriel
+241,R836371599,Marc-Pierre Gaillard,2007-06-02,Kénitra,Très Bien,2024,CP1,Cycle Préparatoire
+242,K932945529,Margot Sauvage,2000-06-07,Fès,Très Bien,2020,CI3,Mécatronique
+243,G783563240,Théophile Aubert,2000-01-12,Fès,Très Bien,2021,CI2,Génie Électrique
+244,R911294971,Noémi Grenier-Cohen,1999-09-29,Casablanca,Très Bien,2021,CI2,Génie Industriel
+245,R794002948,Timothée Michaud,2002-12-09,Kénitra,Bien,2023,CP2,Cycle Préparatoire
+246,G722312633,Émilie Gérard,1999-10-05,Salé,Très Bien,2021,CI2,Mécatronique
+247,G416872439,Hortense Lefebvre,1999-10-04,Salé,Très Bien,2022,CI1,Génie Informatique
+248,G315601773,Thibaut Baron,2000-08-03,Casablanca,Très Bien,2022,CI1,Mécatronique
+249,R638798023,Alphonse Morel,2006-01-24,Tanger,Assez Bien,2021,CI2,Génie Électrique
+250,K965960427,Susan-Michèle Schneider,2005-06-25,Tanger,Très Bien,2021,CI2,Génie Industriel
+251,G602866993,Jean Raymond-Lemoine,2004-05-30,Rabat,Assez Bien,2022,CI1,Génie Électrique
+252,R877621770,Laetitia Gilbert,2003-12-27,Marrakech,Très Bien,2022,CI1,Génie Industriel
+253,G948988297,Denis Pons,2003-12-29,Marrakech,Assez Bien,2021,CI2,Génie Électrique
+254,R232702394,Gabriel Poirier-Daniel,2001-12-05,Oujda,Bien,2021,CI2,Génie Industriel
+255,R509123009,Alphonse-Alphonse Schmitt,2003-03-30,Salé,Assez Bien,2021,CI2,Génie Industriel
+256,K126870011,Daniel Ledoux,2006-08-20,Salé,Très Bien,2022,CI1,Génie Industriel
+257,R167878777,Catherine-Nathalie Colin,2000-05-18,Oujda,Très Bien,2022,CI1,Génie Industriel
+258,R538404342,William Meyer,2006-03-17,Rabat,Assez Bien,2020,CI3,Génie Industriel
+259,G426808977,Juliette Leblanc,2002-11-24,Oujda,Assez Bien,2024,CP1,Cycle Préparatoire
+260,G677186272,Nath Maurice-Durand,2002-07-12,Casablanca,Bien,2023,CP2,Cycle Préparatoire
+261,K819929088,Sébastien Lelièvre,2004-04-20,Marrakech,Très Bien,2021,CI2,Mécatronique
+262,K803217037,Aimée Andre,2007-04-30,Rabat,Bien,2022,CI1,Génie Informatique
+263,K135128844,Benjamin Clément,2003-05-20,Salé,Assez Bien,2022,CI1,Mécatronique
+264,K353524015,Roger-Eugène Joly,2006-04-23,Salé,Assez Bien,2021,CI2,Mécatronique
+265,R792377512,Diane Marie de la Garcia,2005-10-02,Salé,Assez Bien,2021,CI2,Génie Électrique
+266,K303805386,Édouard Roy,2004-04-06,Rabat,Bien,2020,CI3,Génie Électrique
+267,R327746886,Tristan Hamel,2002-09-28,Kénitra,Assez Bien,2023,CP2,Cycle Préparatoire
+268,G235209737,Camille Philippe,2004-04-01,Fès,Assez Bien,2022,CI1,Génie Électrique
+269,G729624046,Timothée Bazin,2007-01-30,Fès,Assez Bien,2021,CI2,RST
+270,G946799779,Valérie Verdier-Guillon,2001-03-17,Kénitra,Bien,2022,CI1,Génie Électrique
+271,G680051935,Olivier-Michel Blanc,2000-05-11,Tanger,Assez Bien,2022,CI1,Génie Informatique
+272,R127681228,Maryse Clément-Le Goff,2005-01-28,Casablanca,Assez Bien,2023,CP2,Cycle Préparatoire
+273,G732276010,Gilbert de Menard,1999-11-04,Salé,Assez Bien,2021,CI2,Génie Électrique
+274,K156263020,Martin-Augustin Mathieu,2004-04-19,Casablanca,Très Bien,2021,CI2,Génie Informatique
+275,R222030010,Anouk Marin,2006-11-03,Rabat,Bien,2022,CI1,Mécatronique
+276,K651085057,Timothée Boyer,2002-03-24,Rabat,Bien,2021,CI2,Mécatronique
+277,G760465943,Éric Georges,2005-03-26,Kénitra,Très Bien,2022,CI1,RST
+278,K591819409,Thierry-David Caron,1999-12-07,Kénitra,Assez Bien,2022,CI1,RST
+279,K557707813,Geneviève de la Cousin,2000-05-04,Rabat,Bien,2020,CI3,Mécatronique
+280,G186748119,Louise Vallée,2005-06-25,Salé,Très Bien,2021,CI2,Mécatronique
+281,G235497187,Adèle-Anaïs Philippe,2000-08-22,Tanger,Très Bien,2022,CI1,Génie Informatique
+282,R864668242,Alexandrie Raynaud-Sauvage,2005-04-16,Salé,Bien,2020,CI3,RST
+283,K587173220,Charlotte Martins,2002-01-02,Marrakech,Assez Bien,2022,CI1,RST
+284,R798916441,Mathilde Rolland,2004-10-22,Fès,Bien,2023,CP2,Cycle Préparatoire
+285,G544328940,Sabine Guyot,2001-11-17,Salé,Bien,2021,CI2,Mécatronique
+286,K883415470,Maurice François,2000-03-17,Rabat,Bien,2020,CI3,Génie Électrique
+287,K814154134,Alexandre Leroy de la Brun,2002-10-22,Tanger,Bien,2022,CI1,Mécatronique
+288,R609241268,Rémy de Pages,2004-06-11,Rabat,Assez Bien,2022,CI1,Génie Informatique
+289,G563723880,Capucine-Thérèse Leduc,1999-06-13,Rabat,Très Bien,2023,CP2,Cycle Préparatoire
+290,G697398528,Patricia Barthelemy,2000-07-12,Kénitra,Très Bien,2021,CI2,Génie Électrique
+291,R453954673,Suzanne Allain,2004-10-06,Rabat,Bien,2021,CI2,RST
+292,R905611583,Henri Lombard,2007-05-23,Marrakech,Très Bien,2021,CI2,Génie Électrique
+293,K744685429,Zacharie Brun,2005-02-23,Tanger,Bien,2024,CP1,Cycle Préparatoire
+294,R644830077,Isaac Pages,2005-11-13,Fès,Assez Bien,2023,CP2,Cycle Préparatoire
+295,G216198604,Édith de la Godard,2003-11-27,Salé,Très Bien,2020,CI3,Mécatronique
+296,G918841563,Françoise Boucher,2000-08-10,Tanger,Très Bien,2021,CI2,Génie Électrique
+297,K702332331,Martin Renault-Jourdan,2001-07-01,Kénitra,Très Bien,2022,CI1,Génie Industriel
+298,G293720285,Corinne Boulay de Voisin,2004-03-19,Tanger,Très Bien,2021,CI2,Génie Industriel
+299,K476908532,Véronique Antoine,2002-04-30,Kénitra,Assez Bien,2020,CI3,Génie Industriel
+300,R805818425,Adrienne du Lelièvre,2004-02-01,Marrakech,Assez Bien,2022,CI1,Génie Informatique
+301,R779863265,Nathalie-Adrienne Dupuis,2006-11-16,Kénitra,Assez Bien,2022,CI1,Génie Informatique
+302,G503935666,Nicolas Alves,2004-10-21,Marrakech,Bien,2022,CI1,RST
+303,G497341481,Suzanne Fabre,2005-04-01,Tanger,Très Bien,2022,CI1,Génie Électrique
+304,R740190407,Maurice Boulanger Le Chevallier,2001-05-17,Rabat,Assez Bien,2022,CI1,Génie Électrique
+305,G910069356,Michel Le Maréchal,2002-08-15,Kénitra,Très Bien,2022,CI1,Génie Informatique
+306,K575788930,Agnès Roux,2007-01-10,Marrakech,Bien,2023,CP2,Cycle Préparatoire
+307,K393310667,Alexandre Tanguy,2003-09-21,Fès,Très Bien,2021,CI2,Mécatronique
+308,K561616250,Joseph-Marcel Pascal,2005-02-18,Rabat,Bien,2023,CP2,Cycle Préparatoire
+309,K665791188,Maurice Thomas,2003-10-20,Tanger,Assez Bien,2020,CI3,RST
+310,K743520276,Jules Lefèvre,2001-10-18,Kénitra,Assez Bien,2022,CI1,Génie Industriel
+311,K326810757,Paul Lévy,2003-01-09,Casablanca,Bien,2020,CI3,Génie Informatique
+312,K228832213,Georges Le Salmon,2000-05-19,Kénitra,Bien,2020,CI3,Génie Industriel
+313,G238712095,Édith Dupuy,2004-12-03,Marrakech,Très Bien,2022,CI1,Mécatronique
+314,R699924859,Agathe Le Aubry,2004-04-10,Salé,Assez Bien,2022,CI1,Génie Industriel
+315,R145421708,Robert Delorme,2004-05-17,Marrakech,Assez Bien,2020,CI3,Génie Électrique
+316,G436146289,Caroline-Victoire Barbier,1999-07-20,Marrakech,Très Bien,2021,CI2,Mécatronique
+317,R787346882,Camille-Juliette Adam,2000-09-17,Marrakech,Bien,2020,CI3,Génie Électrique
+318,K122394554,Alain Petit,2004-12-27,Salé,Assez Bien,2023,CP2,Cycle Préparatoire
+319,R488536370,Camille Fernandes,1999-10-18,Rabat,Bien,2021,CI2,Mécatronique
+320,G567804106,Adèle Bernard-Maurice,2005-10-24,Marrakech,Très Bien,2023,CP2,Cycle Préparatoire
+321,K433154770,Élisabeth-Louise Gosselin,2003-03-05,Salé,Assez Bien,2023,CP2,Cycle Préparatoire
+322,G182011731,Célina Michaud,2003-02-01,Rabat,Très Bien,2022,CI1,Génie Électrique
+323,G933468715,Astrid Le Andre,1999-11-02,Salé,Bien,2022,CI1,RST
+324,G210385522,Gabriel François,2003-09-10,Casablanca,Bien,2022,CI1,Génie Informatique
+325,G746820987,David Tanguy,2001-11-29,Casablanca,Très Bien,2020,CI3,Génie Informatique
+326,G929839316,Lucas Ramos du Bodin,2000-11-16,Oujda,Bien,2023,CP2,Cycle Préparatoire
+327,R582008349,Aimé Lambert-Rodrigues,2002-05-16,Salé,Très Bien,2020,CI3,RST
+328,G572191734,Nathalie Collet de la Louis,2005-03-06,Rabat,Bien,2022,CI1,Génie Électrique
+329,R425150964,Jérôme Pottier Le Lecoq,2001-11-14,Tanger,Très Bien,2021,CI2,Mécatronique
+330,K644748834,Timothée Sauvage,2003-10-19,Rabat,Bien,2024,CP1,Cycle Préparatoire
+331,K140380477,Véronique de la Charpentier,2001-06-01,Kénitra,Bien,2021,CI2,Mécatronique
+332,G792205349,Éléonore Lelièvre,2006-08-10,Rabat,Très Bien,2020,CI3,Génie Industriel
+333,K596832859,Théophile Poirier,2005-09-05,Kénitra,Bien,2022,CI1,RST
+334,R302120588,Zacharie Perret-Daniel,2005-04-08,Salé,Très Bien,2020,CI3,RST
+335,R261985842,Jacques Legendre-Payet,2002-10-29,Kénitra,Bien,2020,CI3,Mécatronique
+336,K866990485,Sophie Lebon,2000-05-12,Rabat,Très Bien,2023,CP2,Cycle Préparatoire
+337,G366012797,Christine-Frédérique Foucher,2000-10-15,Oujda,Bien,2021,CI2,Génie Informatique
+338,R754773573,Claudine Antoine,2005-06-24,Casablanca,Bien,2022,CI1,RST
+339,K515985367,Lucas-Richard Paris,2002-01-26,Marrakech,Bien,2021,CI2,Génie Électrique
+340,R795038832,Maurice-Benoît Alexandre,2000-02-12,Salé,Assez Bien,2024,CP1,Cycle Préparatoire
+341,G699108439,Louis Marin,2006-07-28,Marrakech,Bien,2022,CI1,Génie Électrique
+342,R804980312,Augustin Turpin,2004-09-27,Casablanca,Bien,2021,CI2,Génie Industriel
+343,R812548074,Pierre Lombard,2005-02-17,Casablanca,Bien,2023,CP2,Cycle Préparatoire
+344,R849987147,Odette-Cécile Le Goff,2004-07-02,Marrakech,Assez Bien,2020,CI3,Génie Industriel
+345,K700138002,Guy Hamon de la Andre,2006-04-01,Marrakech,Très Bien,2023,CP2,Cycle Préparatoire
+346,G819532005,Timothée Rodriguez de la Schneider,2005-01-25,Rabat,Très Bien,2022,CI1,Génie Électrique
+347,R488509962,Alexandrie-Renée Daniel,2004-08-01,Kénitra,Bien,2022,CI1,Mécatronique
+348,G329987621,Henriette Legros,2001-09-24,Salé,Bien,2020,CI3,Génie Industriel
+349,G247709679,Zacharie Didier-Maréchal,2005-04-03,Casablanca,Assez Bien,2020,CI3,Génie Informatique
+350,G645127678,Bernadette Picard-Bonnin,2004-11-04,Kénitra,Très Bien,2020,CI3,Génie Industriel
+351,R240712839,Laurence Guillot de Hoareau,2004-02-16,Marrakech,Assez Bien,2022,CI1,Génie Électrique
+352,G992649957,David Colas,2006-12-23,Casablanca,Très Bien,2021,CI2,Génie Informatique
+353,G541156077,Odette Cohen,2001-06-19,Salé,Très Bien,2021,CI2,Mécatronique
+354,K755621841,Charles Pineau,2007-05-26,Tanger,Très Bien,2022,CI1,Génie Industriel
+355,G673390109,Lucy Legrand,2002-04-18,Fès,Bien,2021,CI2,Mécatronique
+356,G494966219,Éléonore Langlois,2006-06-10,Oujda,Bien,2020,CI3,Mécatronique
+357,K639991949,Michel Guillaume,2005-12-03,Marrakech,Assez Bien,2020,CI3,Génie Industriel
+358,R248604290,René Mendès-Ollivier,2004-02-15,Tanger,Assez Bien,2020,CI3,Génie Informatique
+359,K695433590,Andrée Pruvost Le Mahe,2001-05-08,Rabat,Très Bien,2020,CI3,Mécatronique
+360,G406084084,Zacharie Le Carlier,2000-10-06,Rabat,Assez Bien,2022,CI1,RST
+361,K651208305,Antoine Nguyen,2003-06-18,Casablanca,Bien,2021,CI2,Génie Industriel
+362,G976928440,Claude Adam,2004-08-11,Oujda,Bien,2023,CP2,Cycle Préparatoire
+363,K157184151,Nathalie Marques-Michel,2004-04-06,Marrakech,Très Bien,2024,CP1,Cycle Préparatoire
+364,G514642708,Alexandrie-Paulette Le Goff,2006-04-21,Rabat,Bien,2021,CI2,Génie Électrique
+365,G442185272,Adèle Rivière,2004-08-19,Rabat,Très Bien,2022,CI1,Génie Industriel
+366,G247746438,Constance Leleu,2001-04-22,Kénitra,Bien,2022,CI1,Génie Électrique
+367,R992398092,Hugues Lebrun,2001-09-24,Casablanca,Très Bien,2020,CI3,Mécatronique
+368,K760725160,Denis Charles,2006-07-01,Kénitra,Assez Bien,2020,CI3,Mécatronique
+369,K331557515,Laetitia Clément,2005-12-06,Casablanca,Très Bien,2024,CP1,Cycle Préparatoire
+370,K219385981,Mathilde Laine,2006-12-17,Tanger,Assez Bien,2022,CI1,RST
+371,G151270577,Aimée-Michèle Guillot,2004-10-18,Fès,Bien,2020,CI3,Génie Industriel
+372,G219032752,Odette Colas,2004-01-27,Oujda,Très Bien,2021,CI2,Mécatronique
+373,G778556450,Jérôme Rousseau,2002-06-20,Fès,Très Bien,2021,CI2,RST
+374,K560891752,Guillaume Jourdan,2001-10-08,Kénitra,Très Bien,2022,CI1,Génie Informatique
+375,G712745501,Célina Bertrand-Bourdon,2000-07-16,Marrakech,Assez Bien,2021,CI2,Génie Électrique
+376,R487195336,Henri Le Goff-Loiseau,2004-10-16,Rabat,Très Bien,2023,CP2,Cycle Préparatoire
+377,R944403809,Charles Chauvin,2002-08-14,Kénitra,Bien,2021,CI2,RST
+378,G782546314,Adèle Gautier,2007-06-03,Marrakech,Bien,2020,CI3,Mécatronique
+379,R117439966,Nath Blot,1999-07-28,Salé,Assez Bien,2021,CI2,Génie Industriel
+380,G886989426,Théodore Descamps,2005-04-12,Rabat,Très Bien,2021,CI2,Génie Électrique
+381,G147605080,Franck-Timothée Garcia,2004-07-14,Salé,Très Bien,2022,CI1,Génie Électrique
+382,R288000513,Denis Leclerc,2004-07-09,Oujda,Très Bien,2022,CI1,Génie Électrique
+383,R295719504,Xavier Joubert,2006-09-06,Casablanca,Assez Bien,2020,CI3,Mécatronique
+384,G415081566,Arnaude Dufour du Lemoine,2006-10-27,Fès,Assez Bien,2021,CI2,Mécatronique
+385,G438868427,Élodie Rodrigues-Imbert,2002-04-07,Tanger,Très Bien,2020,CI3,Génie Informatique
+386,R608309128,Marguerite-Virginie Boulanger,2005-01-12,Tanger,Assez Bien,2020,CI3,Génie Électrique
+387,K483298103,Marguerite-Noémi Huet,2005-08-02,Kénitra,Très Bien,2020,CI3,Génie Informatique
+388,K233654018,Zoé Renault,2004-09-06,Salé,Bien,2022,CI1,Génie Électrique
+389,R572163615,Grégoire Lelièvre,2006-03-15,Marrakech,Bien,2020,CI3,Génie Électrique
+390,K843102880,Océane Barbier,2004-10-08,Oujda,Bien,2021,CI2,Génie Informatique
+391,K960226208,Diane Schneider,2004-07-10,Rabat,Très Bien,2022,CI1,RST
+392,G562360908,Cécile Pineau-Lefèvre,1999-12-20,Casablanca,Très Bien,2022,CI1,Mécatronique
+393,K210163669,Henri Ollivier-Ollivier,2004-11-14,Rabat,Bien,2020,CI3,Génie Industriel
+394,K578798403,Marcel Seguin-Raynaud,2003-11-05,Marrakech,Assez Bien,2020,CI3,Génie Industriel
+395,K580101819,David Rossi,2002-11-15,Kénitra,Très Bien,2021,CI2,Mécatronique
+396,R567013808,Margot Meyer,1999-09-11,Tanger,Très Bien,2021,CI2,Génie Électrique
+397,G820678212,Brigitte Thibault,2005-09-28,Marrakech,Bien,2024,CP1,Cycle Préparatoire
+398,R829511584,Virginie de Aubert,2000-10-05,Casablanca,Assez Bien,2022,CI1,RST
+399,R828092377,Emmanuel Le Gall,2002-06-17,Oujda,Assez Bien,2022,CI1,Génie Informatique
+400,G353398109,Isaac Mace-Raymond,2000-09-24,Salé,Bien,2022,CI1,Génie Informatique
+401,R134773472,Dorothée Gilbert,2001-03-01,Casablanca,Très Bien,2020,CI3,Génie Électrique
+402,K499446327,Virginie Torres Le Morel,2005-02-06,Oujda,Assez Bien,2021,CI2,Mécatronique
+403,G668503222,Margaud Hervé de Grondin,2006-10-21,Salé,Bien,2020,CI3,RST
+404,R399240862,Denis Aubert-Lucas,2004-03-27,Fès,Assez Bien,2022,CI1,Génie Électrique
+405,R299767568,Thibaut Bourdon Le Becker,2001-12-19,Oujda,Très Bien,2024,CP1,Cycle Préparatoire
+406,R226444910,Guy-Tristan Lefebvre,2004-12-19,Tanger,Bien,2020,CI3,Génie Électrique
+407,G756998124,Matthieu Lemaître,2003-08-28,Tanger,Très Bien,2021,CI2,Mécatronique
+408,G231680929,Luce Pelletier de la Guyon,2003-05-20,Casablanca,Assez Bien,2020,CI3,Mécatronique
+409,G865975088,Véronique Techer,2000-03-16,Oujda,Assez Bien,2021,CI2,Mécatronique
+410,R473045064,Thérèse Pineau Le Thibault,2003-03-17,Rabat,Très Bien,2022,CI1,Génie Électrique
+411,K422076028,Jean Weber,2004-10-04,Casablanca,Très Bien,2021,CI2,RST
+412,K646272321,Laurent Blanc,2002-07-16,Fès,Assez Bien,2021,CI2,Génie Informatique
+413,G354193540,Luc Texier,2006-01-08,Oujda,Assez Bien,2020,CI3,Génie Informatique
+414,R714478186,Hortense-Anaïs Collet,2005-05-25,Salé,Bien,2021,CI2,Génie Électrique
+415,G757074545,Maurice Descamps,2000-05-16,Rabat,Assez Bien,2021,CI2,RST
+416,K869801588,Anastasie Laine,2006-05-13,Oujda,Très Bien,2020,CI3,Génie Industriel
+417,K984053945,Claire Legendre,2005-08-11,Rabat,Assez Bien,2022,CI1,Mécatronique
+418,R179634081,Luce Gimenez,1999-10-07,Oujda,Bien,2022,CI1,Génie Électrique
+419,K237798236,Honoré Pereira Le Boulay,1999-10-26,Casablanca,Assez Bien,2022,CI1,RST
+420,R159499094,Odette Lelièvre,1999-10-04,Rabat,Très Bien,2022,CI1,Mécatronique
+421,K276799196,Gabrielle Normand,2000-07-31,Casablanca,Bien,2022,CI1,Génie Informatique
+422,K657162259,Xavier Girard,1999-07-30,Tanger,Assez Bien,2022,CI1,Génie Industriel
+423,G781887358,Tristan-Grégoire Roux,1999-07-02,Tanger,Assez Bien,2021,CI2,Génie Industriel
+424,R672817675,Hugues Bailly-Giraud,2007-05-31,Rabat,Très Bien,2020,CI3,Génie Industriel
+425,R723464439,Olivier Bouchet,2001-08-18,Casablanca,Assez Bien,2021,CI2,Génie Informatique
+426,R144232045,Pierre Lévêque,2001-04-22,Kénitra,Assez Bien,2022,CI1,Génie Électrique
+427,R927878967,Louis Germain de la Marchand,2001-03-24,Tanger,Très Bien,2024,CP1,Cycle Préparatoire
+428,R547306651,Luc Gay,2007-02-24,Kénitra,Bien,2020,CI3,Génie Informatique
+429,K789242701,Denis Texier,2007-03-01,Tanger,Bien,2021,CI2,RST
+430,R536038528,Timothée Poirier,2007-05-25,Tanger,Bien,2022,CI1,Génie Industriel
+431,R164331134,Émilie Chevalier-Martin,2004-08-20,Casablanca,Bien,2023,CP2,Cycle Préparatoire
+432,K598690974,Aimée-Anouk Deschamps,2001-09-23,Fès,Bien,2022,CI1,Mécatronique
+433,K871336275,Amélie Guillou,2006-02-25,Salé,Très Bien,2022,CI1,Génie Informatique
+434,K240409084,Isaac Meunier,1999-06-28,Salé,Très Bien,2021,CI2,Génie Électrique
+435,G442648079,Éric du Coste,2003-12-11,Fès,Bien,2021,CI2,RST
+436,K582750043,Victor Evrard,2005-05-13,Fès,Assez Bien,2023,CP2,Cycle Préparatoire
+437,G411612760,Thomas Pelletier,2003-03-26,Marrakech,Très Bien,2023,CP2,Cycle Préparatoire
+438,G271476207,Raymond Ramos de Bourgeois,1999-11-20,Salé,Très Bien,2022,CI1,Mécatronique
+439,G919395339,Timothée-Vincent Schmitt,2006-05-01,Casablanca,Bien,2022,CI1,Génie Électrique
+440,K635539154,Victoire Lemoine,2006-05-02,Tanger,Bien,2022,CI1,RST
+441,G522240582,Thibault Hebert,2007-05-21,Oujda,Assez Bien,2024,CP1,Cycle Préparatoire
+442,R478918222,Théodore Blin,2002-12-06,Kénitra,Assez Bien,2020,CI3,Génie Informatique
+443,K741580895,Denise du Leroux,1999-06-23,Oujda,Bien,2020,CI3,Génie Industriel
+444,G215424112,Virginie Morin,2005-04-09,Marrakech,Assez Bien,2021,CI2,RST
+445,R492750748,Joseph du Bernard,2001-09-11,Marrakech,Bien,2021,CI2,Génie Industriel
+446,K154930149,Olivier de Millet,2005-11-18,Fès,Bien,2024,CP1,Cycle Préparatoire
+447,K178954113,Matthieu Rolland,2003-09-25,Marrakech,Très Bien,2021,CI2,RST
+448,R400347789,Thomas Weiss,2002-02-16,Rabat,Assez Bien,2021,CI2,Mécatronique
+449,K500718660,Paul Delattre,2007-02-26,Salé,Très Bien,2023,CP2,Cycle Préparatoire
+450,G313736772,Paulette Giraud,2006-12-14,Marrakech,Très Bien,2021,CI2,Génie Électrique
+451,G141783553,Christine Leroux,2001-04-04,Casablanca,Très Bien,2024,CP1,Cycle Préparatoire
+452,K657629251,Vincent Letellier,2006-02-25,Oujda,Assez Bien,2022,CI1,Génie Électrique
+453,G452150647,Christine Valentin,2005-02-14,Salé,Assez Bien,2022,CI1,RST
+454,R893838119,Olivier Renard,2007-01-13,Tanger,Très Bien,2020,CI3,Génie Électrique
+455,R989368954,Élise Masson,2002-07-05,Oujda,Très Bien,2022,CI1,Génie Électrique
+456,K609912042,Luc-Martin Delannoy,2004-08-29,Kénitra,Bien,2020,CI3,RST
+457,R217687031,Frédéric Leleu,2006-04-02,Marrakech,Très Bien,2022,CI1,Génie Électrique
+458,R838781242,Christelle Olivier-Richard,2005-05-19,Kénitra,Très Bien,2020,CI3,Génie Industriel
+459,K803935444,Alice du Grondin,2001-09-30,Fès,Très Bien,2020,CI3,Mécatronique
+460,R615877957,Alix Martineau,2000-06-29,Casablanca,Très Bien,2024,CP1,Cycle Préparatoire
+461,G982252092,Luce Ramos,2002-03-18,Fès,Assez Bien,2020,CI3,Génie Électrique
+462,R217999418,Matthieu Chartier,1999-07-16,Fès,Assez Bien,2020,CI3,RST
+463,K549661921,Jérôme Pottier,2002-06-25,Casablanca,Bien,2021,CI2,Mécatronique
+464,K638824588,Augustin du Hardy,2000-11-13,Oujda,Très Bien,2020,CI3,Génie Informatique
+465,R248264937,Jérôme Maillot-Boulanger,2000-09-03,Fès,Très Bien,2024,CP1,Cycle Préparatoire
+466,R613646933,Jules Coste,2003-05-26,Marrakech,Bien,2022,CI1,Génie Électrique
+467,K672440825,Louise Simon-Lemaître,2006-12-04,Salé,Très Bien,2021,CI2,Génie Informatique
+468,R928917719,Thierry Martel,2003-06-12,Tanger,Très Bien,2021,CI2,Génie Électrique
+469,G364697908,Laurence Pruvost,2004-08-18,Tanger,Très Bien,2020,CI3,Mécatronique
+470,G419561201,Jules-Alphonse Marques,2006-10-22,Tanger,Très Bien,2020,CI3,Génie Industriel
+471,R856975382,Léon Bailly,2001-02-08,Oujda,Bien,2020,CI3,Génie Informatique
+472,K701818966,Margaux Laroche,1999-12-12,Tanger,Bien,2020,CI3,Mécatronique
+473,R826517607,Robert Perez de Lebon,2000-01-15,Marrakech,Bien,2023,CP2,Cycle Préparatoire
+474,G411871167,Claude de la Lacombe,2004-07-20,Kénitra,Bien,2021,CI2,Génie Électrique
+475,K574997731,Hugues Le Costa,2001-03-02,Tanger,Très Bien,2023,CP2,Cycle Préparatoire
+476,G316968866,Julie Teixeira,2007-04-30,Tanger,Très Bien,2020,CI3,Mécatronique
+477,G217281149,Yves Fabre-Hernandez,2004-12-28,Fès,Assez Bien,2021,CI2,Génie Industriel
+478,R670201461,Charles de Le Gall,2000-03-16,Fès,Très Bien,2024,CP1,Cycle Préparatoire
+479,G207586738,Édouard Allain,2004-04-15,Marrakech,Bien,2022,CI1,Génie Industriel
+480,G831424323,Maggie Dupont,2002-08-28,Casablanca,Assez Bien,2020,CI3,Mécatronique
+481,G536913550,Éléonore Jacquet,2000-02-13,Oujda,Bien,2021,CI2,RST
+482,K444851196,Jeanne Valette,2001-01-09,Tanger,Très Bien,2020,CI3,Génie Informatique
+483,G800400428,Susan Caron,2003-05-09,Fès,Très Bien,2024,CP1,Cycle Préparatoire
+484,G548700579,Marthe-Maggie Fleury,2003-06-27,Casablanca,Assez Bien,2024,CP1,Cycle Préparatoire
+485,K300050585,David Teixeira,2002-01-15,Tanger,Assez Bien,2020,CI3,Génie Électrique
+486,K709844411,Franck Mace,2001-03-25,Rabat,Bien,2024,CP1,Cycle Préparatoire
+487,K788603957,Clémence Clément,2005-08-12,Oujda,Assez Bien,2020,CI3,Génie Industriel
+488,K392956587,Marie Robin,2000-06-03,Fès,Assez Bien,2022,CI1,RST
+489,G885033297,Audrey Caron,2001-09-30,Oujda,Très Bien,2022,CI1,Génie Électrique
+490,R299929730,Alexandre Lemaître,2007-03-31,Kénitra,Très Bien,2021,CI2,Génie Industriel
+491,K709650444,Maurice Leclerc,2005-01-19,Fès,Assez Bien,2022,CI1,Génie Électrique
+492,K653278397,Philippine Coste,2005-01-11,Salé,Assez Bien,2020,CI3,Génie Électrique
+493,R202418976,René Loiseau,2002-07-28,Casablanca,Assez Bien,2020,CI3,Génie Électrique
+494,K366338529,Emmanuel David-Nicolas,2005-03-20,Kénitra,Bien,2020,CI3,Mécatronique
+495,G579678614,Simone Le Da Silva,1999-09-11,Tanger,Bien,2020,CI3,Génie Électrique
+496,R876189202,Timothée-Tristan Vallée,2007-01-17,Kénitra,Bien,2020,CI3,Génie Industriel
+497,R353727962,Christophe de la Jacques,2004-05-04,Kénitra,Très Bien,2021,CI2,Génie Électrique
+498,K429430802,Tristan Guérin du Auger,2001-06-10,Casablanca,Bien,2023,CP2,Cycle Préparatoire
+499,R926610534,Christelle Lecomte du Allard,2004-09-21,Tanger,Très Bien,2022,CI1,RST
+500,R416794215,Christophe Moreno,2003-11-18,Salé,Très Bien,2023,CP2,Cycle Préparatoire

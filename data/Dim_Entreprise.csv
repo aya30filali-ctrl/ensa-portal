@@ -1,0 +1,31 @@
+ID_Entreprise,Nom_Entreprise,Raison_Sociale,Secteur_Activite,Ville,Pays,Convention_Partenariat
+1,OCP Group,OCP Group,Industrie Minière,Rabat,Maroc,Oui
+2,Maroc Telecom,Maroc Telecom,Télécommunications,Rabat,Maroc,Non
+3,Renault Maroc,Renault Maroc,Automobile,Rabat,Maroc,Non
+4,CIH Bank,CIH Bank,Banque/Finance,Fès,Maroc,Non
+5,Inwi,Inwi,Télécommunications,Tanger,Maroc,Non
+6,Lydec,Lydec,Énergie,Fès,Maroc,Oui
+7,BMCE Bank,BMCE Bank,Banque/Finance,Rabat,Maroc,Oui
+8,OnshoreMorocco,OnshoreMorocco,Énergie Renouvelable,Fès,Maroc,Non
+9,CGI Maroc,CGI Maroc,IT & Software,Fès,Maroc,Non
+10,Capgemini Maroc,Capgemini Maroc,IT & Software,Casablanca,Maroc,Oui
+11,IBM Maroc,IBM Maroc,IT & Software,Casablanca,Maroc,Oui
+12,Oracle Maroc,Oracle Maroc,IT & Software,Fès,Maroc,Oui
+13,Huawei Maroc,Huawei Maroc,Télécommunications,Rabat,Maroc,Non
+14,Leoni Maroc,Leoni Maroc,Automobile,Fès,Maroc,Non
+15,Yazaki Maroc,Yazaki Maroc,Automobile,Casablanca,Maroc,Oui
+16,Delphi Maroc,Delphi Maroc,Automobile,Fès,Maroc,Non
+17,Safran Maroc,Safran Maroc,Aéronautique,Casablanca,Maroc,Non
+18,Altran Maroc,Altran Maroc,Conseil IT,Casablanca,Maroc,Non
+19,SQLI Maroc,SQLI Maroc,IT & Software,Rabat,Maroc,Non
+20,Sofrecom,Sofrecom,Télécommunications,Tanger,Maroc,Oui
+21,Atos Maroc,Atos Maroc,IT & Software,Fès,Maroc,Non
+22,Accenture Maroc,Accenture Maroc,Conseil,Kénitra,Maroc,Oui
+23,Deloitte Maroc,Deloitte Maroc,Audit/Conseil,Tanger,Maroc,Non
+24,PwC Maroc,PwC Maroc,Audit/Conseil,Casablanca,Maroc,Oui
+25,RAM Maroc,RAM Maroc,Transport,Fès,Maroc,Oui
+26,TotalEnergies Maroc,TotalEnergies Maroc,Énergie,Casablanca,Maroc,Non
+27,Siemens Maroc,Siemens Maroc,Industrie,Kénitra,Maroc,Oui
+28,ABB Maroc,ABB Maroc,Énergie,Fès,Maroc,Oui
+29,Schneider Electric,Schneider Electric,Énergie,Casablanca,Maroc,Non
+30,Valeo Maroc,Valeo Maroc,Automobile,Casablanca,Maroc,Non

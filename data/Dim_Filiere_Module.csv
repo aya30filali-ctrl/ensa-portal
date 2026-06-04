@@ -1,0 +1,39 @@
+ID_Module,Code_Module,Intitule_Module,Niveau,Nom_Filiere
+1,M-CP101,Analyse Mathématique 1,CP1,Cycle Préparatoire
+2,M-CP102,Physique Mécanique,CP1,Cycle Préparatoire
+3,M-CP103,Informatique Générale,CP1,Cycle Préparatoire
+4,M-CP104,Chimie Générale,CP1,Cycle Préparatoire
+5,M-CP201,Algèbre Linéaire,CP2,Cycle Préparatoire
+6,M-CP202,Électronique de Base,CP2,Cycle Préparatoire
+7,M-CP203,Thermodynamique,CP2,Cycle Préparatoire
+8,M-CP204,Probabilités & Statistiques,CP2,Cycle Préparatoire
+9,M-GI101,Bases de Données Avancées,CI1,Génie Informatique
+10,M-GI102,Développement Full-Stack,CI1,Génie Informatique
+11,M-GI103,Systèmes d'Exploitation,CI1,Génie Informatique
+12,M-GI201,Machine Learning & IA,CI2,Génie Informatique
+13,M-GI202,Réseaux & Sécurité,CI2,Génie Informatique
+14,M-GI203,Architecture Logicielle,CI2,Génie Informatique
+15,M-GI301,Big Data & Cloud,CI3,Génie Informatique
+16,M-GI302,Cybersécurité Avancée,CI3,Génie Informatique
+17,M-IND101,Recherche Opérationnelle,CI1,Génie Industriel
+18,M-IND102,Gestion de Production,CI1,Génie Industriel
+19,M-IND103,Méthodes Lean,CI1,Génie Industriel
+20,M-IND201,Supply Chain Management,CI2,Génie Industriel
+21,M-IND202,Qualité & Normes ISO,CI2,Génie Industriel
+22,M-IND301,Industrie 4.0,CI3,Génie Industriel
+23,M-IND302,Management de Projet,CI3,Génie Industriel
+24,M-GE101,Électronique Analogique,CI1,Génie Électrique
+25,M-GE102,Électrotechnique,CI1,Génie Électrique
+26,M-GE201,Automatique & Contrôle,CI2,Génie Électrique
+27,M-GE202,Énergie Renouvelable,CI2,Génie Électrique
+28,M-GE301,Systèmes Embarqués,CI3,Génie Électrique
+29,M-MCT101,Mécanique des Solides,CI1,Mécatronique
+30,M-MCT102,Hydraulique & Pneumatique,CI1,Mécatronique
+31,M-MCT201,Robotique Industrielle,CI2,Mécatronique
+32,M-MCT202,Conception Assistée,CI2,Mécatronique
+33,M-MCT301,Systèmes Mécatroniques,CI3,Mécatronique
+34,M-RST101,Protocoles Réseaux,CI1,RST
+35,M-RST102,Télécommunications,CI1,RST
+36,M-RST201,Réseaux Sans Fil,CI2,RST
+37,M-RST202,VoIP & Multimédia,CI2,RST
+38,M-RST301,Sécurité Réseaux,CI3,RST

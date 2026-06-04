@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Node
+node_modules/
+dist/
+.DS_Store
+
+# DB — à inclure car ta collègue en a besoin pour Power BI
+# ensa_dw.db  ← on la garde dans le repo
+
+# CSV data — optionnel, peut être régénéré
+# data/

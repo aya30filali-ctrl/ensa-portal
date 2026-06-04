@@ -10,6 +10,14 @@ const ROLE_CONFIG = {
   Etudiant:     { label: "Étudiant",          color: "#2ecc71", icon: "🎓",  bg: "#0a1a10" },
 };
 
+// ── URLs Power BI par rôle ──────────────────────────────────
+const POWERBI_URLS = {
+  Directeur:    "https://app.powerbi.com/groups/me/reports/eba5e869-ab33-42d9-934e-17c2cd0cead2/37b5ee6fa2eeb042c306?experience=power-bi",
+  Chef_Filiere: "https://app.powerbi.com/groups/me/reports/eba5e869-ab33-42d9-934e-17c2cd0cead2/595ee354bac309201e24?experience=power-bi",
+  Professeur:   "https://app.powerbi.com/groups/me/reports/eba5e869-ab33-42d9-934e-17c2cd0cead2/8fc1e2301aee65163a4a?experience=power-bi",
+  Etudiant:     "https://app.powerbi.com/groups/me/reports/eba5e869-ab33-42d9-934e-17c2cd0cead2/9ce3f9eeb8b1600a7480?experience=power-bi",
+};
+
 // ── Composant KPI Card ───────────────────────────────────────
 function KpiCard({ label, value, unit = "", color, icon }) {
   return (
@@ -135,39 +143,40 @@ export default function Dashboard() {
           </div>
         )}
 
-        {tab === "powerbi" && embed && (
+        {tab === "powerbi" && (
           <div className="powerbi-section">
             <div className="pbi-info-card">
-              <h3>Configuration Power BI Embedded</h3>
-              <p>Cette section affichera votre rapport Power BI filtré par RLS selon votre profil.</p>
+              <h3>Tableau de bord Power BI</h3>
+              <p>Votre rapport Power BI personnalisé selon votre profil — filtré automatiquement par RLS.</p>
               <div className="pbi-config">
                 <div className="pbi-row">
-                  <span className="pbi-key">Page du rapport</span>
-                  <span className="pbi-val" style={{ color: cfg.color }}>{embed.page_name}</span>
+                  <span className="pbi-key">Rôle</span>
+                  <span className="pbi-val" style={{ color: cfg.color }}>{cfg.label}</span>
                 </div>
                 <div className="pbi-row">
-                  <span className="pbi-key">Rôle RLS injecté</span>
-                  <span className="pbi-val">{embed.rls_roles?.[0]}</span>
+                  <span className="pbi-key">Email</span>
+                  <span className="pbi-val">{user?.email}</span>
                 </div>
                 <div className="pbi-row">
-                  <span className="pbi-key">Email filtré</span>
-                  <span className="pbi-val">{embed.rls_username}</span>
-                </div>
-                <div className="pbi-row">
-                  <span className="pbi-key">Report ID</span>
-                  <span className="pbi-val pbi-mono">{embed.report_id}</span>
+                  <span className="pbi-key">Page assignée</span>
+                  <span className="pbi-val" style={{ color: cfg.color }}>Dashboard {cfg.label}</span>
                 </div>
               </div>
-              <div className="pbi-placeholder">
-                {/* En prod : remplacer par le composant PowerBIEmbed de powerbi-client-react */}
-                <div className="pbi-mock">
-                  <span style={{ fontSize: 48 }}>⚡</span>
-                  <p>Intégration Power BI</p>
-                  <p className="pbi-mock-hint">
-                    Configurer <code>POWERBI_EMBED_URL</code>, <code>POWERBI_REPORT_ID</code><br />
-                    et <code>POWERBI_ACCESS_TOKEN</code> dans le <code>.env</code> backend
-                  </p>
-                </div>
+              <div className="pbi-open-section">
+                <p className="pbi-open-hint">
+                  Cliquez sur le bouton ci-dessous pour ouvrir votre tableau de bord Power BI.<br/>
+                  Connectez-vous avec votre email académique pour que le RLS s'applique automatiquement.
+                </p>
+                <a
+                  href={POWERBI_URLS[user?.role]}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="pbi-open-btn"
+                  style={{ background: `linear-gradient(135deg, ${cfg.color}, ${cfg.color}99)` }}
+                >
+                  <span style={{ fontSize: 22 }}>⚡</span>
+                  Ouvrir mon Dashboard Power BI
+                </a>
               </div>
             </div>
           </div>
@@ -360,6 +369,20 @@ export default function Dashboard() {
         .pbi-mock p { font-size: 16px; font-weight: 500; margin-top: 12px; }
         .pbi-mock-hint { font-size: 12px; color: rgba(255,255,255,0.3); margin-top: 8px; line-height: 1.8; }
         code { background: rgba(255,255,255,0.08); padding: 2px 6px; border-radius: 4px; font-size: 11px; }
+
+        /* Power BI open button */
+        .pbi-open-section { margin-top: 24px; text-align: center; }
+        .pbi-open-hint { font-size: 13px; color: rgba(255,255,255,0.4); margin-bottom: 24px; line-height: 1.8; }
+        .pbi-open-btn {
+          display: inline-flex; align-items: center; gap: 12px;
+          padding: 16px 32px; border-radius: 12px;
+          color: #fff; font-size: 16px; font-weight: 600;
+          text-decoration: none;
+          font-family: 'DM Sans', sans-serif;
+          transition: opacity 0.2s, transform 0.15s;
+          box-shadow: 0 8px 24px rgba(0,0,0,0.3);
+        }
+        .pbi-open-btn:hover { opacity: 0.9; transform: translateY(-2px); }
 
         /* Loading */
         .dash-loading {
